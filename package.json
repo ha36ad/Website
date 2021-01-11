@@ -1,6 +1,6 @@
 {
-  "homepage": "http://github.com/ha36ad/ha36ad.github.io",
-  "name": "beginner-portfolio",
+  "homepage": "http://ha36ad.github.io/Website",
+  "name": "hammad-khan",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +12,7 @@
     "react-dom": "^16.14.0",
     "react-lazy-load-image-component": "^1.5.1",
     "react-pdf": "^5.1.0",
+    "react-responsive-carousel": "^3.2.11",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^3.4.3",
     "react-scroll": "^1.8.1",
