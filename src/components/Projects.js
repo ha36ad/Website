@@ -7,7 +7,7 @@ export default function Project() {
     <div
       className="min-h-screen flex justify-center items-center"
       style={{
-        background: '#66FCF1',
+       background: '#1F2833',
       }}
       id="mywork"
     >
